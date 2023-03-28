@@ -2,7 +2,7 @@
 <h4 align="center">Machine Leraning Student <a href="/">|</a> Linux Enthusiast <a href="/">|</a> Back-end Developer<a href="/"></h4>
 
 ### About Me
-<img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
+<img align="right" height="155px" width="155px" alt="Rem" src="https://raw.githubusercontent.com/Rekun-dev/Rekun-dev/master/assets/rem.jpeg">
 
  - Im Rei [ Rekun ]
  - An junior Back-end developer, Linux and Machine Learning enthusiast
