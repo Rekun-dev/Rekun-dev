@@ -2,10 +2,9 @@
 <h4 align="center">Machine Leraning Student <a href="/">|</a> Linux Enthusiast <a href="/">|</a> Back-end Developer<a href="/"></h4>
 
 ### About Me
-<img align="right" height="155px" width="155px" alt="Rem" src="https://raw.githubusercontent.com/Rekun-dev/Rekun-dev/master/assets/Rem.png">
 
  - Im Rei [ Rekun ]
- - An junior Back-end developer, Linux and Machine Learning enthusiast
+ - A junior Back-end developer, Linux and Machine Learning enthusiast
  - I love anime, novels, manga and many more.
  - Btw my waifu is Rem :v
  - よろしくお願いします!!!
