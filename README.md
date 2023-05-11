@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="github.com/rekun-dev" style="color:#0d6efd;text-decoration: none;">Rei</a></h1>
-<h4 align="center">Machine Leraning Student <a href="/">|</a> Linux Enthusiast <a href="/">|</a> Back-end Developer<a href="/"></h4>
+<h4 align="center">Machine Learning Student <a href="/">|</a> Linux Enthusiast <a href="/">|</a> Back-end Developer<a href="/"></h4>
 
 ### About Me
 
