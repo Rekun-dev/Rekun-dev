@@ -15,7 +15,7 @@
  <summary><b>Extra Information</b></summary>
 
 ### Tech Stack:
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,js,python,php,laravel,nodejs,express,html,css,tailwindcss,react,vercel,git,github)
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,js,python,php,laravel,nodejs,express,tailwindcss,react,vercel,mysql,git,html,css)
 
 ### Some of my github stats:
 ![](https://github-readme-stats.vercel.app/api?username=rekun-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
