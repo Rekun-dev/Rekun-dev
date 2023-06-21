@@ -1,10 +1,10 @@
 <h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="github.com/rekun-dev" style="color:#0d6efd;text-decoration: none;">Rei</a></h1>
-<h4 align="center">Machine Learning Student <a href="/">|</a> Linux Enthusiast <a href="/">|</a> Back-end Developer<a href="/"></h4>
+<h4 align="center">Cyber Security <a href="/">|</a> Linux Enthusiast <a href="/">|</a> Programmer<a href="/"></h4>
 
 ### About Me
 
  - Im Rei [ Rekun ]
- - A junior Back-end developer, Linux and Machine Learning enthusiast
+ - A Cyber Security, Linux and Indie programmer
  - I love anime, novels, manga and many more.
  - Btw my waifu is Rem :v
  - よろしくお願いします!!!
@@ -15,7 +15,7 @@
  <summary><b>Extra Information</b></summary>
 
 ### Tech Stack:
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,js,python,php,laravel,nodejs,express,tailwindcss,react,vercel,mysql,git,html,css)
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,python,js,php,laravel,nodejs,express,tailwindcss,react,vercel,mysql,git,html,css)
 
 ### Some of my github stats:
 ![](https://github-readme-stats.vercel.app/api?username=rekun-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
